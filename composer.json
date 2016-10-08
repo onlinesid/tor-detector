@@ -1,0 +1,15 @@
+{
+  "name": "onlinesid/tor-detector",
+  "type": "library",
+  "description": "Detect if your website visitor is from a TOR exit node",
+  "keywords": [
+    "tor",
+    "tor browser",
+    "detector"
+  ],
+  "homepage": "https://github.com/onlinesid/tor-detector",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": { "OnlineSid\\" : "src/" }
+  }
+}
