@@ -11,6 +11,7 @@ namespace OnlineSid\Tor;
  *
  * Thanks to https://jrnv.nl/detecting-the-use-of-proxies-and-tor-network-6c240d6cc5f#.k8ldcs21o
  *
+ * @package OnlineSid\Tor
  */
 class TorDetector
 {
