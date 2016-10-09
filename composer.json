@@ -1,7 +1,7 @@
 {
   "name": "onlinesid/tor-detector",
   "type": "library",
-  "description": "Detect if your website visitor is from a TOR exit node",
+  "description": "Tor Detector - a library to detect if your website visitor is using TOR",
   "keywords": [
     "tor",
     "tor browser",
