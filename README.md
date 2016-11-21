@@ -3,6 +3,10 @@ A library to detect if your website visitor is from a TOR network or not.
 
 At the moment this is achieved by using a DNS lookup method as described in https://trac.torproject.org/projects/tor/wiki/doc/TorDNSExitList
 
+## Composer
+
+https://packagist.org/packages/onlinesid/tor-detector
+
 ## Usage
 
 ```php
